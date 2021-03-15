@@ -1,0 +1,17 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "xinchao.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon xinchao.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.2.2",
+    "nodemon": "^2.0.7"
+  }
+}
